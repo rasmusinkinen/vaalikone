@@ -1,4 +1,3 @@
-# Pian saatavilla.
 <!DOCTYPE html>
 <html lang="fi">
 <head>
