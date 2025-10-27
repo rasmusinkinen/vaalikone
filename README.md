@@ -2,13 +2,14 @@
 <html lang="fi">
 <head>
 <meta charset="UTF-8">
-<!-- Uudelleenohjaus heti vaalikoneeseen -->
 <meta http-equiv="refresh" content="0; url=https://www.espoo.fi/fi/kasvatus-ja-opetus/nuorisopalvelut/nuorisovaltuustovaalien-vaalikone-2025">
-<title>Ohjaus Espoon nuorisovaltuuston vaalikoneeseen</title>
+<title>Ohjaus Vaalikoneeseen</title>
 </head>
 <body>
-<p>Uudelleenohjataan Espoon nuorisovaltuuston vaalikoneeseen...
-<a href="https://www.espoo.fi/fi/kasvatus-ja-opetus/nuorisopalvelut/nuorisovaltuustovaalien-vaalikone-2025">Siirry tästä</a>
+<p>Uudelleenohjataan vaalikoneeseen...
+<a href="https://www.espoo.fi/fi/kasvatus-ja-opetus/nuorisopalvelut/nuorisovaltuustovaalien-vaalikone-2025">
+Siirry tästä, jos uudelleenohjaus ei toimi automaattisesti
+</a>
 </p>
 </body>
 </html>
