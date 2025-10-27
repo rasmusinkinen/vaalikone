@@ -6,6 +6,6 @@
     <title>Ohjaus Nuorisovaltuustoon</title>
 </head>
 <body>
-    <p>Uudelleenohjataan Nuorisovaltuuston sivulle... <a href="https://www.espoo.fi/fi/nuorisovaltuusto">Siirry tästä</a></p>
+    <p>Uudelleenohjataan Nuorisovaltuuston sivulle... <a href=https://www.espoo.fi/fi/kasvatus-ja-opetus/nuorisopalvelut/nuorisovaltuustovaalien-vaalikone-2025>Siirry tästä</a></p>
 </body>
 </html>
